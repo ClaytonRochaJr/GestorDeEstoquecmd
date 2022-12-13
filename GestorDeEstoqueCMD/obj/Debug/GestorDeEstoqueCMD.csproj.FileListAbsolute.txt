@@ -1,0 +1,8 @@
+C:\Users\super\OneDrive\Ambiente de Trabalho\trabalhos com o VSCODE\Trabalhos com C#\Projetos\GestorDeEstoqueCMD\GestorDeEstoqueCMD\bin\Debug\GestorDeEstoqueCMD.exe.config
+C:\Users\super\OneDrive\Ambiente de Trabalho\trabalhos com o VSCODE\Trabalhos com C#\Projetos\GestorDeEstoqueCMD\GestorDeEstoqueCMD\bin\Debug\GestorDeEstoqueCMD.exe
+C:\Users\super\OneDrive\Ambiente de Trabalho\trabalhos com o VSCODE\Trabalhos com C#\Projetos\GestorDeEstoqueCMD\GestorDeEstoqueCMD\bin\Debug\GestorDeEstoqueCMD.pdb
+C:\Users\super\OneDrive\Ambiente de Trabalho\trabalhos com o VSCODE\Trabalhos com C#\Projetos\GestorDeEstoqueCMD\GestorDeEstoqueCMD\obj\Debug\GestorDeEstoqueCMD.csproj.AssemblyReference.cache
+C:\Users\super\OneDrive\Ambiente de Trabalho\trabalhos com o VSCODE\Trabalhos com C#\Projetos\GestorDeEstoqueCMD\GestorDeEstoqueCMD\obj\Debug\GestorDeEstoqueCMD.csproj.SuggestedBindingRedirects.cache
+C:\Users\super\OneDrive\Ambiente de Trabalho\trabalhos com o VSCODE\Trabalhos com C#\Projetos\GestorDeEstoqueCMD\GestorDeEstoqueCMD\obj\Debug\GestorDeEstoqueCMD.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Ambiente de Trabalho\trabalhos com o VSCODE\Trabalhos com C#\Projetos\GestorDeEstoqueCMD\GestorDeEstoqueCMD\obj\Debug\GestorDeEstoqueCMD.exe
+C:\Users\super\OneDrive\Ambiente de Trabalho\trabalhos com o VSCODE\Trabalhos com C#\Projetos\GestorDeEstoqueCMD\GestorDeEstoqueCMD\obj\Debug\GestorDeEstoqueCMD.pdb
